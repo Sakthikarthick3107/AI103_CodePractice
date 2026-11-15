@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/sakthikarthick3107/Coding/ai103 practice/basic-integrate/.venv/bin/python" "$0" "$@"
+'''exec' "/home/sakthikarthick3107/Coding/ai103 practice/ai103_codenotes/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
